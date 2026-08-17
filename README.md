@@ -1,6 +1,6 @@
 # Avocado Pricing & Volume Analysis
 
-An academic statistics final project by **Noa Cohen and Shirley**, analyzing weekly US avocado pricing and volume data with hypothesis testing.
+An academic statistics final project by **Noa and Shirley**, analyzing weekly US avocado pricing and volume data with hypothesis testing.
 
 ## Dataset
 
